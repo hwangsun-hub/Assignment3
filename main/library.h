@@ -1,6 +1,6 @@
 /*
 
-	Code By Sun Hwang(DigiPen ID : sun.hwang)
+	Code By Seung Oh Hong(DigiPen ID : seungoh.hong), Sun Hwang(DigiPen ID : sun.hwang)
 	GAM100
 	Weekly Homework Assignment #3
 
