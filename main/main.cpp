@@ -7,6 +7,15 @@
 
 */
 
+/*
+
+instructions
+
+This game is controlled using the left and right arrow keys.
+Try donuts falling from the sky!
+
+*/
+
 
 #include <iostream>
 #include <raylib.h>
