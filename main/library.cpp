@@ -31,8 +31,7 @@ void draw_food(int x, int y) {
 
 }
 
-void draw_player(int x) {
-	Rectangle player{ x, 25, 50, 50 };
-	DrawRectangleRec(player, BLACK);
+void draw_player(int playerx) {
+	DrawRectangle(playerx, 350, 50, 50, BLACK);
 
 }
